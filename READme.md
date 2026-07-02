@@ -36,4 +36,4 @@ This is for Mac Os<br>
             <li>Assignments and Projects</li>
 <br>
 Founder : <a href="https://github.com/devidutta3">devidutta3</a> <br>
-Further queery :  <a href="mailto:supportcodeudaan@://gmail.com">Click Here To Contact Me </a>
+Further queery :  <a href="mailto:supportcodeudaan@://gmail.com">Give us Feadback </a>
