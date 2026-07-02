@@ -35,5 +35,8 @@ This is for Mac Os<br>
             <li>Distribution</li>
             <li>Assignments and Projects</li>
 <br>
+<h3> File Naming Convention : cu_current-date_Topic_topicnumber_filename.py</h3>
+
+
 Founder : <a href="https://github.com/devidutta3">devidutta3</a> <br>
 Further queery :  <a href="mailto:supportcodeudaan@://gmail.com">Give us Feadback </a>
